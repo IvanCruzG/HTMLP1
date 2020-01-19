@@ -1,3 +1,32 @@
 body{
-  background-color: teal;
+  background-color: #99D4FF;
+  margin: 0 auto;
+  padding: 0;
+}
+
+a:hover {
+  background: yellow;
+  color: black;
+}
+h1 {
+  color: #311857;
+  text-align:center;
+  text-transform: uppercase;
+}
+ /* https://www.maangchi.com/wp-content/uploads/2019/11/vegankimchi-insta.jpg*/
+header {
+  background-image: url("vegankimchi-insta.jpg");
+  background-size: cover;
+  height: 500px;
+  width: 100%;
+}
+
+p {
+  top-padding: 0;
+}
+
+main {
+  background-color: white;
+  width: 80%;
+  margin: 0 auto; /* centers all content in main*/
 }
