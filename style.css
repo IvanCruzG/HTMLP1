@@ -8,6 +8,10 @@ a:hover {
   background: yellow;
   color: black;
 }
+
+footer {
+  color: DarkMagenta;
+}
 h1 {
   color: #311857;
   text-align:center;
